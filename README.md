@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @mishodzuliashvili
-- 👀 I’m interested in Computing Systems(Hardware -> Architecture -> OS -> Programming Language -> Compilers -> Data Structures and Algorithms -> Software(Web Development, Game Development))
-- 🌱 I’m currently learning ⬆️
-- 📫 How to reach me : mishodzuliashvili1@gmail.com
+...
