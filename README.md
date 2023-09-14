@@ -57,5 +57,5 @@ me.say_hi()
 
 - Discord: `cptn_nemo#9668`
 - Email : [mishodzuliashvil@gmail.com](mailto:mishodzuliashvil@gmail.com)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-MishoDzuliashvili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mishodzuliashvili/)](https://www.linkedin.com/in/mishodzuliashvili/)
+- LinkedIn: [mishodzuliashvili](https://www.linkedin.com/in/mishodzuliashvili/)
 
