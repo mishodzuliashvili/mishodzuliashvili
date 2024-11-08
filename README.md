@@ -5,4 +5,4 @@
 ## 📫 How to Reach Me?
 
 - **Email:** [dzuliashvilimikheil9@gmail.com](mailto:dzuliashvilimikheil9@gmail.com)
-- **LinkedIn:** [mishodzuliashvili](https://www.linkedin.com/in/mishodzuliashvili/)
+- **LinkedIn:** [mishodzuliashvili](https://www.linkedin.com/in/misho-dzuliashvili/)
