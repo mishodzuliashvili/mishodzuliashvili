@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./name.svg" alt="Misho Dzuliashvili" />
+  <img src="./name1.svg" alt="Misho Dzuliashvili" />
 </h1>
 
 ## 📫 How to Reach Me?
