@@ -1,34 +1,19 @@
-# Hi there, I'm Misho 👋  
+# Misho
 
-🚀 **Full-Stack Web Developer | Software Engineer**  
-💡 Passionate about building high-performance web applications and solving complex engineering challenges.  
+> Executing the Infinite Tsukuyomi
 
-## 👨‍💻 About Me  
+Building **Straight Forks**. I like shipping things that work and
+arguing about whether they should exist in the first place.
 
-- 🔭 Currently leading the development of **Straight Forks**, a SaaS company.  
-- 🌱 Continuously improving my skills in **scalable web architectures** and **system design**.  
-- 💬 Ask me about **Next.js, React, TypeScript, Prisma, and backend optimizations**.  
-- 🏆 Proven experience in **building, deploying, and scaling production-ready applications**.  
+Mostly writing TypeScript and Rust these days. Next.js on the
+frontend, Postgres + Prisma behind most of what I build, Redis
+when something needs to be fast, Docker when something needs to
+move.
 
----
-
-## 🛠 Tech Stack  
-
-**💻 Languages & Frameworks:**  
-`JavaScript` `TypeScript` `Rust` `Python` `Next.js` `React` `Node.js` `Tailwind CSS`  
-
-**🛢 Databases & Backend:**  
-`PostgreSQL` `MongoDB` `Prisma` `Firebase` `Redis` `Docker`  
-
-**⚙️ Tools & Platforms:**  
-`Git & GitHub` `Linux` `CI/CD` `Cloud Infrastructure` `WebSockets` `Appwrite`  
+Recently interested in: agentic tooling (MCP servers, LLM-driven
+workflows), video pipelines, and the unreasonable amount of glue
+code between "it works locally" and "it works in production."
 
 ---
 
-## 📫 Connect With Me  
-
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/misho-dzuliashvili) | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/mishodzuliashvili) | 📧 [Email](mailto:dzuliashvilimikheil9@gmail.com) |
-|---|---|---|
----
-
-🔥 **Building impactful digital experiences, one project at a time.**  
+**Find me:** [LinkedIn](https://linkedin.com/in/misho-dzuliashvili) · [Email](mailto:mishodzuliashvili1@gmail.com)
